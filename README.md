@@ -1,4 +1,4 @@
-copia y pega en un documento de textop y luegon crea un .bat
+copia y pega en un documento de texto y luegon crea o guarda en un .bat
 ----------------
 tambien puedes solo descargar el .bat que ya hice.
 
