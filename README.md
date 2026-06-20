@@ -1,3 +1,5 @@
+restaura el menu inicio de windows 11 a solo 6 iconos
+
 copia y pega en un documento de texto y luegon crea o guarda en un .bat
 
 -------------
